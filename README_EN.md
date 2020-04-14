@@ -1,5 +1,5 @@
 ## Welcome to the **Unofficial** Interactive Common Repository for Beijing National Day School International Dept.
-### READ THIS CAREFULLY BEFORE YOU USE THIS PROJECT.
+### READ THIS CAREFULLY BEFORE YOU USE THIS PROJECT!
 
 BNDS Commons is based on the original thread I posted on Zhihu.
 The original link is https://www.zhihu.com/question/55413003/answer/935681928.
