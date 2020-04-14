@@ -8,4 +8,4 @@ This repository is a backup for answers and comitts from other people in case an
 ## Usage
 
 You can read my posted threads in thread.md. They will be updated regularly.
-You are able to submit your own insights via Pull requests.
+You are able to submit your own insights via the **Issues** tab, as for you they are regarded **actual issues** of the school.
